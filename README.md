@@ -1,1 +1,1 @@
-# Gun-Detection-with-Detectron
+# Gun-Detection-With-Detectron-Using-Synthetic-Data
